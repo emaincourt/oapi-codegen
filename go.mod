@@ -1,8 +1,8 @@
-module github.com/deepmap/oapi-codegen
+module github.com/emaincourt/oapi-codegen
 
 require (
 	github.com/cyberdelia/templates v0.0.0-20141128023046-ca7fffd4298c
-	github.com/getkin/kin-openapi v0.61.0
+	github.com/getkin/kin-openapi v0.78.0
 	github.com/go-chi/chi/v5 v5.0.0
 	github.com/golangci/lint-1 v0.0.0-20181222135242-d2cdd8c08219
 	github.com/labstack/echo/v4 v4.2.1
